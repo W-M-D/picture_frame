@@ -20,13 +20,14 @@ def stream_loader(streams,x):
 	  stream.send_signal(SIGTERM) 
 	  return 
 	else:
-	  stream.send_signal(SIGTERM)
+	  if x != -1:
+	    stream.send_signal(SIGTERM)
 	  return stream_loader(streams[i],i)
 	    
 	      
 if __name__ == '__main__': 
   streams= ["https://home.nest.com/camera/105b06ffae6f4a1197c6d440e0180f38", "https://home.nest.com/camera/1e5cd590b5eb42cb8647d305e1bd0d32" ]
-  picture_paths="~/Pictures"
+  picture_paths="/home/neophobia/Pictures"
   eog = subprocess.Popen(["eog", picture_paths])
   stream_loader(streams,-1)
       
