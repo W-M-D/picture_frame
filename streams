@@ -1,0 +1,11 @@
+Cape cam:
+URL: https://nexusapi.camera.home.nest.com/get_image?uuid=105b06ffae6f4a1197c6d440e0180f38&width=768" 
+Cookie: "Cookie: _ga=GA1.2.966868959.1461273764; _ga=GA1.3.966868959.1461273764; website_2=73de26ba804842418f97af6751cf366672a0823608927e484f8e2989ef732fcb1a1a7205; eu_compliance=2; n=eyJoYXMiOnsiMTM3MDg3OCI6eyJzdHIiOjF9fSwiaWRzIjpbIjEzNzA4NzgiXX0%3D" 
+
+Construction:
+"https://nexusapi.camera.home.nest.com/get_image?uuid=491567dcb751497da1fa738675e69a57&width=1920" 
+"Cookie: _ga=GA1.2.966868959.1461273764; _ga=GA1.3.966868959.1461273764; website_2=73de26ba804842418f97af6751cf366672a0823608927e484f8e2989ef732fcb1a1a7205; eu_compliance=2; n=eyJoYXMiOnsiMTM3MDg3OCI6eyJzdHIiOjF9fSwiaWRzIjpbIjEzNzA4NzgiXX0%3D" 
+
+Workshop cam:
+URL: "https://nexusapi.camera.home.nest.com/get_image?uuid=1e5cd590b5eb42cb8647d305e1bd0d32&width=768" 
+Cookie:  "Cookie: _ga=GA1.2.966868959.1461273764; _ga=GA1.3.966868959.1461273764; website_2=73de26ba804842418f97af6751cf366672a0823608927e484f8e2989ef732fcb1a1a7205; eu_compliance=2; n=eyJoYXMiOnsiMTM3MDg3OCI6eyJzdHIiOjF9fSwiaWRzIjpbIjEzNzA4NzgiXX0%3D" 
